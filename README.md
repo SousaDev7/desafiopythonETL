@@ -27,12 +27,15 @@ O projeto foi baseado no desafio da **Santander Dev Week 2023**, porém algumas 
 
 ## 📁 Estrutura do Projeto
 
+```text
+📁 desafioPythonETL
 ├── etl_santander_csv.py
 ├── SDW2023.csv
 ├── relatorio_final_openai.json
 ├── requirements.txt
 ├── .gitignore
 └── README.md
+
 
 ---
 
